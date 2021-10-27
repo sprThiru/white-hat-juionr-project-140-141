@@ -1,0 +1,50 @@
+.headind
+{
+    top: 0;
+    width: 100%;
+    font-size: 20px;
+    color: white;
+    margin: 0;
+}
+
+.instruction
+{
+    border-color: white;
+    margin-left: 1230px;
+}
+#start,#status
+{
+    font-size: 20px;
+}
+canvas 
+{
+    border:3px solid white;
+    border-radius: 20px;
+    box-shadow:  5px 5px 5px white;
+    margin-top: 70px;
+}
+.copy_right_footer
+{
+    position: fixed;
+    font-size: 18px;
+    bottom: 0;
+    background: white;
+    width: 100%;
+    margin: 0;
+    line-height: 3;
+    text-align: center;
+    color: gray;
+}
+
+.modal-dialog
+{
+    width: 70%;
+}
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Cookie', cursive;
+}
+
+
